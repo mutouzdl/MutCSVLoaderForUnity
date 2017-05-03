@@ -18,7 +18,7 @@
 用于读取文件的工具类，支持PC和Android平台，不支持iOS（木头本人不喜欢玩iOS，所以没去研究）
 
 2.ReflectUtil （在Assets/Scripts/CSVLoader/目录）
-反射辅助工具 （在Assets/Scripts/CSVLoader/目录）
+反射辅助工具
 
 3.CsvLoader （在Assets/Scripts/CSVLoader/目录）
 核心类，用于读取CSV文件
