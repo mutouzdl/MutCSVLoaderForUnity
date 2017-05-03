@@ -5,7 +5,7 @@
 核心的代码就四个，如果大家不想下载Demo工程的话，直接下载下面四个代码，放到你的Unity项目中即可:
 
 1.FileLoader （在Assets/Scripts/CSVLoader/目录）
-用于读取文件的工具栏，支持PC和Android平台，不支持iOS（木头本人不喜欢玩iOS，所以没去研究）
+用于读取文件的工具类，支持PC和Android平台，不支持iOS（木头本人不喜欢玩iOS，所以没去研究）
 
 2.ReflectUtil （在Assets/Scripts/CSVLoader/目录）
 反射辅助工具 （在Assets/Scripts/CSVLoader/目录）
