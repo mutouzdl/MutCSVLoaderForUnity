@@ -1,5 +1,7 @@
-﻿using UnityEngine;
+using UnityEngine;
 using System.IO;
+using System;
+
 
 /// <summary>
 /// 文件读取工具类
